@@ -7,7 +7,7 @@ import "fmt"
 // main is the entry point of the Go program.
 func main() {
 
-	x := 9
+	x := 7
 
 	fmt.Println("Variable:", x)
 	fmt.Println("Pointer:", &x)
